@@ -1,0 +1,2 @@
+Longitude,Latitude,Weather,Description,Temperature,Feels_Like,Temp_Min,Temp_Max,Pressure,Humidity,Visibility,Wind_Speed,Wind_Direction,Cloudiness,Sunrise,Sunset,Timezone,City_ID,City_Name,Code
+10.99,44.34,Clouds,overcast clouds,279.38,279.38,277.74,279.86,1018,93,10000,0.81,25,100,1737441878,1737475783,3600,3163858,Zocca,200

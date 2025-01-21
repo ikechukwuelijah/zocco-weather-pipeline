@@ -1,0 +1,6 @@
+2025-01-21 14:33:19,054 - INFO - Script started.
+2025-01-21 14:33:19,055 - INFO - Attempting to connect to the database for uploading data.
+2025-01-21 14:33:19,087 - INFO - Uploading data to table: zocco
+2025-01-21 14:33:19,242 - INFO - Data uploaded successfully to zocco.
+2025-01-21 14:33:19,243 - INFO - Data uploaded successfully.
+2025-01-21 14:33:19,245 - INFO - Script ended.
